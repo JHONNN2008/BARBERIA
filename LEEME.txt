@@ -1,0 +1,11 @@
+SCALPER STUDIO — RECREACIÓN MULTIPÁGINA
+Abre index.html en tu navegador.
+Cada sección es una página HTML independiente:
+- index.html
+- servicios.html
+- productos.html
+- sucursales.html
+- contacto.html
+
+El menú superior enlaza entre las subpáginas. CSS y JavaScript están incluidos en cada HTML.
+Las fotografías requieren conexión a internet. Las direcciones, precios y formulario son demostrativos; no es una web oficial ni está conectada a un sistema de reservas.
